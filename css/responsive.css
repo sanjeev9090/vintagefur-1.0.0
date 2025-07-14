@@ -424,7 +424,7 @@ ul.link li {
 .navbar-toggler { background-color: #ffffff; }
 .logo { width: 50%; }
 .header_section { background-size: cover; }
-.banner_section { background-size: cover; padding-top: 20px; }
+.banner_section { background-size: cover; height: 560px; }
 .furniture_text { font-size: 30px; }
 .there_text { width: 100%; font-size: 15px;}
 .contact_bt_main { width: 150px; }
