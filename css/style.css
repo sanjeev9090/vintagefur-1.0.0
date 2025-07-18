@@ -1181,3 +1181,19 @@ textarea#comment::placeholder {
 #hero-text{
     bottom: 7.25rem;
 }
+
+
+
+ #service {
+        border: 1px solid grey;
+        justify-content: center;
+        width: 16.50rem;
+        padding: 0.625rem;
+        border-radius: 10px;
+        box-shadow: 1px 1px 1px 1px lightgrey;
+        margin: 10px;
+        
+    }
+    .row{
+       justify-content: center; 
+    }
