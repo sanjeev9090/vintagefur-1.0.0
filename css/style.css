@@ -412,6 +412,7 @@ button {
     width: 100%;
     float: left;
     padding-bottom: 90px;
+    
 }
 
 .services_taital {
@@ -1176,3 +1177,7 @@ textarea#comment::placeholder {
     }
 }
 
+
+#hero-text{
+    bottom: 7.25rem;
+}
