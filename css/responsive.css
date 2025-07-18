@@ -341,7 +341,21 @@ padding: 126px 40px;
 
 @media (max-width: 575px) {
     .last { display: none; }
-    
+   
+
+#service {
+        text-align: center;
+        border: 1px solid grey;
+        justify-content: center;
+        width: 18.75rem;
+        margin: 2.1875rem;
+        padding: 0.625rem;
+        border-radius: 10px;
+        box-shadow: 1px 1px 1px 1px lightgrey;
+    }
+
+
+
 .header { padding-top: 0px; }
 .btn-primary {max-width: 126px;
 margin-right: 2px;

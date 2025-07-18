@@ -1129,8 +1129,8 @@ textarea#comment::placeholder {
 }
 
 .carousel-item {
-    height: 100vh;
-    min-height: 500px;
+    /* height: 100vh;
+    min-height: 500px; */
     background-size: cover;
     background-position: center;
     position: relative;
@@ -1176,16 +1176,3 @@ textarea#comment::placeholder {
     }
 }
 
-/* @media (max-width: 350px) {
-
-    .carousel-caption {
-        position: absolute;
-        right: 24%;
-        bottom: 1.25rem;
-        left: 24%;
-        padding-top: 1.25rem;
-        padding-bottom: 1.25rem;
-        color: #fff;
-        text-align: center;
-    }
-} */
