@@ -745,13 +745,8 @@ a:hover {
     z-index: 99999;
 }
 
-.container_main1:hover .image {
-    opacity: 0.3;
-}
 
-.container_main1:hover .middle {
-    opacity: 1;
-}
+
 
 .text {
     color: #fff;
@@ -765,20 +760,8 @@ a:hover {
     float: left;
 }
 
-.container_main1::after {
-    content: "";
-    position: absolute;
-    top: 0;
-    width: 92%;
-    height: 90%;
-    background-color: rgb(255, 182, 7, .6);
-    z-index: 11;
-    display: none;
-}
 
-.container_main1:hover::after {
-    display: block;
-}
+
 
 .modern_text {
     width: 100%;
@@ -1197,3 +1180,8 @@ textarea#comment::placeholder {
     .row{
        justify-content: center; 
     }
+
+
+
+
+    
